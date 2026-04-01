@@ -6,6 +6,7 @@ Here are some of my personal projects:
 * [Infiltrated](http://algomafia.onrender.com)/[AlgoMafia](https://github.com/HashMapsData2Value/AlgoMafia): An on-chain version of the popular social deduction name known as Mafia or Werewolf. Uses the blockchain as the game moderator, powered by ring signatures to have the players anonymously be assigned roles.
 * [Edaga.io](http://edaga.io): A decentralized social messaging network like X or Reddit. Using Algorand as the underlying backend.
 * [LeakSwap](https://github.com/HashMapsData2Value/LeakSwap): Algorand<->Monero cross-chain atomic swaps, inspired by similar Monero swapping protocols.
+* [Mithras Mobile](https://github.com/HashMapsData2Value/Mithras-Groth16-BN254/tree/main/mithras-mobile/react-native): Algorand privacy wallet in React-Native, based off of and built on-top of the Mithras protocol.
 
 
 <!--
